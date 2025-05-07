@@ -1,4 +1,4 @@
-# Lung-Cancer-Risk-Factor-Analysis# 
+# Lung Cancer Risk Factor Analysis
 
 ## Project Overview
 This repository contains the code, data, and documentation for an analysis of lung cancer risk factors. The project investigates multiple factors that potentially influence lung cancer severity and constructs predictive models to evaluate risk. This work was completed as part of the I501 course at Indiana University-Purdue University Indianapolis.
